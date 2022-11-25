@@ -1,9 +1,6 @@
 👋 Hi, I’m Jonathan Hill
 
-🌱 I’m currently learning and practicing: Python and JavaScript
-
-
-My profile links are as follows:
+My profile links:
 
 SoloLearn: https://www.sololearn.com/profile/11673171
 
